@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SlysCloset">
         <activity
+            android:name=".ui.Insta"
+            android:exported="false" />
+        <activity
             android:name=".ui.About"
             android:exported="false" />
         <activity
