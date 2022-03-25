@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sly\'s Closet</string>
+    <string name="welcome_to_sly_s_fashion_closet">WELCOME TO SLY\'s FASHION CLOSET</string>
+    <string name="check_out_the_latest_fashion">Check Out The Latest Fashion</string>
+    <string name="t_shirts">T-Shirts</string>
+    <string name="trousers">Trousers</string>
+    <string name="trousers">Trousers</string>
+    <string name="socks_and_slides">Socks and Slides</string>
+    <string name="my_order">My Order</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="t_shirts_trend">T-SHIRTS TREND</string>
+    <string name="trousers_trend">TROUSERS TREND</string>
+    <string name="socks_and_slides_trends">SOCKS AND SLIDES TRENDS</string>
+    <string name="shoes_trends">SHOES TRENDS</string>
+    <string name="shirts_trends">SHIRTS TRENDS</string>
+    <string name="new_york_trend_nike">New York Trend NIKE</string>
+    <string name="christian_dior_trends">Christian Dior Trends</string>
+    <string name="gucci_trends">Gucci Trends</string>
+    <string name="addidas_trends">Addidas Trends</string>
+    <string name="louis_vuitton">Louis Vuitton</string>
+    <string name="palm_angels">Palm Angels</string>
+    <string name="nike_trousers">Nike Trousers</string>
+    <string name="nike">Nike</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/linear.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/radius.xml" value="0.181" />
+        <entry key="app/src/main/res/drawable/search.xml" value="0.181" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3416666666666667" />
+        <entry key="app/src/main/res/layout/activity_order.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_shirts.xml" value="0.3384387351778656" />
+        <entry key="app/src/main/res/layout/activity_shoes.xml" value="0.3384387351778656" />
+        <entry key="app/src/main/res/layout/activity_socks_slides.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/layout/activity_trousers.xml" value="0.3384387351778656" />
+        <entry key="app/src/main/res/layout/activity_tshirts.xml" value="0.3384387351778656" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
