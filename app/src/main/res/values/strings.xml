@@ -4,7 +4,6 @@
     <string name="check_out_the_latest_fashion">Check Out The Latest Fashion</string>
     <string name="t_shirts">T-Shirts</string>
     <string name="trousers">Trousers</string>
-    <string name="trousers">Trousers</string>
     <string name="socks_and_slides">Socks and Slides</string>
     <string name="my_order">My Order</string>
     <string name="settings">Settings</string>
@@ -22,4 +21,7 @@
     <string name="palm_angels">Palm Angels</string>
     <string name="nike_trousers">Nike Trousers</string>
     <string name="nike">Nike</string>
+    <string name="_7_usd">$7 USD</string>
+    <string name="shoes">Shoes</string>
+    <string name="orders">Orders</string>
 </resources>

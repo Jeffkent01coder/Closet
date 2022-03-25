@@ -71,9 +71,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/asht" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart3"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
 
             </LinearLayout>
 
@@ -103,10 +126,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/pash" />
 
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart1"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
             </LinearLayout>
 
 
@@ -135,9 +180,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/gush" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart2"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
 
             </LinearLayout>
 
@@ -167,9 +235,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/csh" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
 
             </LinearLayout>
 
@@ -199,9 +290,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/nch" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart4"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
 
             </LinearLayout>
 
@@ -231,9 +345,32 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="150dp"
                     android:layout_marginHorizontal="10dp"
                     android:src="@drawable/lvsh" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/_7_usd"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="10dp" />
+
+                    <ImageView
+                        android:id="@+id/addToCart5"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="270dp"
+                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+
+                </LinearLayout>
 
             </LinearLayout>
 

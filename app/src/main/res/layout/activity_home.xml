@@ -84,7 +84,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:gravity="center_horizontal"
-                        android:text="Shoes"
+                        android:text="@string/shoes"
                         android:textAlignment="center"
                         android:textColor="@color/black"
                         android:textStyle="bold" />
