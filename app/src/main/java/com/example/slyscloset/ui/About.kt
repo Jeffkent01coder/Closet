@@ -11,5 +11,6 @@ class About : AppCompatActivity() {
         supportActionBar?.hide()
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+
     }
 }

@@ -17,5 +17,9 @@ class Settings : AppCompatActivity() {
         binding.igSly.setOnClickListener {
             startActivity(Intent(this, Insta::class.java))
         }
+
+        binding.ivBack.setOnClickListener {
+            startActivity(Intent(this, Home::class.java))
+        }
     }
 }
