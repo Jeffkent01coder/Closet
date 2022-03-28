@@ -93,8 +93,8 @@
                         android:id="@+id/addToCart3"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
 
@@ -148,8 +148,8 @@
                         android:id="@+id/addToCart1"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
             </LinearLayout>
@@ -202,8 +202,8 @@
                         android:id="@+id/addToCart2"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
 
@@ -257,8 +257,8 @@
                         android:id="@+id/addToCart"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
 
@@ -312,8 +312,8 @@
                         android:id="@+id/addToCart4"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
 
@@ -367,8 +367,8 @@
                         android:id="@+id/addToCart5"
                         android:layout_width="50dp"
                         android:layout_height="45dp"
-                        android:layout_marginStart="270dp"
-                        android:src="@drawable/ic_baseline_add_shopping_cart_24" />
+                        android:layout_marginStart="250dp"
+                        android:src="@drawable/ic_baseline_attach_money_24" />
 
                 </LinearLayout>
 

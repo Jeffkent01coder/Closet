@@ -16,5 +16,30 @@ class Trousers : AppCompatActivity() {
         binding.ivBack.setOnClickListener {
             startActivity(Intent(this, Home::class.java))
         }
+
+        binding.addToCart.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
+
+        binding.addToCart1.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
+
+        binding.addToCart2.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
+
+        binding.addToCart3.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
+
+        binding.addToCart4.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
+
+
+        binding.addToCart5.setOnClickListener {
+            startActivity(Intent(this, Order::class.java))
+        }
     }
 }

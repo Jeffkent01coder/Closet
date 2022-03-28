@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -30,7 +29,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="50dp"
                 android:layout_marginHorizontal="50dp"
                 android:layout_marginTop="10dp"
                 android:backgroundTint="#50828C"
@@ -40,18 +39,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/orders"
+                    android:text="@string/payments"
                     android:textColor="@color/white"
                     android:textSize="30sp"
                     android:textStyle="bold" />
 
-                <SearchView
-                    android:layout_width="match_parent"
-                    android:layout_height="35dp"
-                    android:layout_marginHorizontal="30dp"
-                    android:layout_marginTop="40dp"
-                    android:background="@drawable/search"
-                    android:backgroundTint="@color/white" />
+
 
             </androidx.cardview.widget.CardView>
         </LinearLayout>
@@ -59,4 +52,62 @@
 
     </LinearLayout>
 
-</ScrollView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/do_you_want_to_pay_7_ksh_750_to_sly_s_closet_acoount_no_token"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/enter_m_pesa_pin"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:inputType="numberPassword"
+        android:hint="@string/alphabets_4"
+        android:textColor="@color/black"
+        android:maxLength="4"
+        android:layout_marginHorizontal="30dp"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btncancel"
+            android:layout_marginStart="70dp"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#E2CAC2C2"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/cancel"/>
+
+        <Button
+            android:id="@+id/btnsend"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_marginStart="40dp"
+            android:backgroundTint="#E2CAC2C2"
+            android:text="@string/send"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
